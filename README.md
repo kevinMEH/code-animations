@@ -8,13 +8,13 @@ After joining the curriculum team, I immediately noticed an opportunity to make 
 
 Here's the first animation I made for Steel City Codes, showcasing how a while loop works in Java:
 
-![Java While Loop Animation](2021.07.25%20-%20Java%20Loop%20Animation/Java%20Loop%20Animation.gif)
+![Java While Loop Animation](Projects/2021.07.25%20-%20Java%20Loop%20Animation/Java%20Loop%20Animation.gif)
 
 Looking back, I'll admit that it was more rough than I wanted it to be, but that was to be expected for the first few animations. The executives liked the animations, so I made more.
 
 Here are the animations today. I've refined the style and made the movements snappier. Oh, and please ignore the quality issues. GIF files are not very optimized and quality had to be exchanged to keep the file sizes low.
 
-![Java While Loop With Continue](2021.09.01%20-%20Java%20While%20Loop%20With%20Continue/Java%20While%20Loop%20With%20Continue.gif)
+![Java While Loop With Continue](Projects/2021.09.01%20-%20Java%20While%20Loop%20With%20Continue/Java%20While%20Loop%20With%20Continue.gif)
 
 ## This Repository
 
