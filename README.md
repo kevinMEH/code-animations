@@ -18,8 +18,8 @@ Here are the animations today. I've refined the style and made the movements sna
 
 ## This Repository
 
-I've decided to release all the animations along with their project files to this repository. Feel free to look inside the project to see how it's done, and maybe even create your own based off mine. You can attribute to `github.com/kevinMEH`, or just `kevinMEH` (If you wish).
+I've decided to release all the animations to this repository. Please contact me if you want to look at the project files as well, I'd be more than willing to share. **Feel free to use my animations, however, please attribute to `github.com/kevinMEH` if you do**, or just `kevinMEH` (The former is preferred).
 
-## Notice
+## Copyright
 
-**The animations and project files are for learning purposes only. You may not copy, reproduce, distribute, publish or in any other way use my works for any purposes, commercial or personal.**
+**You may not copy, reproduce, distribute, publish or in any other way use my works without CLEARLY attributing to me (`kevinMEH`). You may not use my works for commercial purposes. You may use my works for educational (non-commercial) or personal purposes ONLY.**
