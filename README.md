@@ -20,6 +20,10 @@ Here are the animations today. I've refined the style and made the movements sna
 
 I've decided to release all the animations to this repository. Please contact me if you want to look at the project files as well, I'd be more than willing to share. **Feel free to use my animations, however, please attribute to `github.com/kevinMEH` if you do**, or just `kevinMEH` (The former is preferred).
 
+## Notable Animations
+
+[Java Substring Animation](Projects/2021.08.22%20-%20Java%20Substring/2021.08.22%20-%20Java%20Substring.gif)
+
 ## Copyright
 
 **You may not copy, reproduce, distribute, publish or in any other way use my works without CLEARLY attributing to me (`kevinMEH`). You may not use my works for commercial purposes. You may use my works for educational (non-commercial) or personal purposes ONLY. Please contact me if you wish to use my works for commercial purposes.**
