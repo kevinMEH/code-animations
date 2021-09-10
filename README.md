@@ -22,4 +22,4 @@ I've decided to release all the animations to this repository. Please contact me
 
 ## Copyright
 
-**You may not copy, reproduce, distribute, publish or in any other way use my works without CLEARLY attributing to me (`kevinMEH`). You may not use my works for commercial purposes. You may use my works for educational (non-commercial) or personal purposes ONLY.**
+**You may not copy, reproduce, distribute, publish or in any other way use my works without CLEARLY attributing to me (`kevinMEH`). You may not use my works for commercial purposes. You may use my works for educational (non-commercial) or personal purposes ONLY. Please contact me if you wish to use my works for commercial purposes.**
